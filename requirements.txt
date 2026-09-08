@@ -1,0 +1,8 @@
+streamlit
+transformers
+peft
+sentence-transformers
+datasets
+pandas
+torch
+huggingface_hub
